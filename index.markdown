@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![](/assets/img/create-branch.png)
+![](/assets/img/kitty.png)
