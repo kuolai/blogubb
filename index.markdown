@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![](/assets/img/kitty.png)
+![]({{site.baseurl}}/assets/img/kitty.png)
