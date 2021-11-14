@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![](/{{site.baseurl}}/assets/img/kitty.png)
+![]({{"/assets/img/kitty.png" | relative_url }} )
